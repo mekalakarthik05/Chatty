@@ -280,38 +280,15 @@ Pipeline stages include:
 
 # 📸 Project Screenshots
 
-## Login
+<p align="center">
+  <img src="frontend/public/login.png" alt="Login" width="45%"/>
+  <img src="frontend/public/chat.png" alt="Chat" width="45%"/>
+</p>
 
-```
-frontend/public/login.png
-```
-
----
-
-## Chat
-
-```
-frontend/public/chat.png
-```
-
----
-
-## Settings
-
-```
-frontend/public/settings.png
-```
-
----
-
-## Logout
-
-```
-frontend/public/logout.png
-```
-
----
-
+<p align="center">
+  <img src="frontend/public/settings.png" alt="Settings" width="45%"/>
+  <img src="frontend/public/logout.png" alt="Logout" width="45%"/>
+</p>
 # 🤝 Contributing
 
 Contributions are always welcome.
